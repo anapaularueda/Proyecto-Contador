@@ -1,4 +1,4 @@
-# modulo1_proyecto
+# Proyecto-contador-progresivo
 
 A new Flutter project.
 
